@@ -1,0 +1,4 @@
+# Modmail
+
+This is a quick and simple bot to take user reports and dump them in a channel.
+Takes two environment variables: DISCORD_TOKEN, which is your bot token, and MOD_CHANNEL, which is the id of the channel you want to dump the reports into.
